@@ -47,10 +47,10 @@ Rotate the captured video frames by 90° clockwise and display them.
 ## Program
 
 ### Developed By:
-**Name:** THARUN R
+**Name:** AJITH A
 
 ### Register No:
-**212224240172**
+**212224230012**
 
 ---
 
